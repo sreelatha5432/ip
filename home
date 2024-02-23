@@ -1,0 +1,11 @@
+<html>
+<body>
+<p>
+<map name="india">
+<a href="delhi.html" shape="circle" coords="190,210,30">
+<a href="chennai.html" shape="circle" coords="224,569,20">
+</map>
+<img border="0" src="india.jpg" usemap="#india" width="590" height="700">
+</p>
+</body>
+</html>
